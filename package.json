@@ -1,8 +1,8 @@
 {
-  "name": "ep-dna-lambda-layers",
+  "name": "bweigel-lambda-layers",
   "version": "0.1.0",
   "bin": {
-    "ep-dna-lambda-layers": "bin/ep-dna-lambda-layers.js"
+    "lambda-layers": "bin/lambda-layers.js"
   },
   "scripts": {
     "build": "tsc",
